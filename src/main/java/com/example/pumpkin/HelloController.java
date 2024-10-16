@@ -8,4 +8,10 @@ import javafx.scene.input.KeyEvent;
 
 public class HelloController {
 
+    public void innitialize() {
+
+    }
+
+    private Model model = new Model();
+
 }
